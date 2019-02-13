@@ -8,7 +8,7 @@ public class BeObserver extends Observable {
     public void setTestProperty(String testProperty) {
         this.testProperty = testProperty;
         setChanged();   // 设置状态已经改变
-        notifyObservers();  // 通知观察者
+        notifyObservers(testProperty);  // 通知观察者(发送通知的时候可以传递参数)
     }
 
 }
