@@ -1,4 +1,4 @@
-package decorator.decoratorCar;
+package decorator;
 
 public  abstract class Decorator extends Car{
     Car car = null;

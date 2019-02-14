@@ -1,4 +1,4 @@
-package decorator.decoratorCar;
+package decorator;
 
 /**
  * 给车添加飞行功能的装饰器

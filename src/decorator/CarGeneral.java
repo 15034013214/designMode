@@ -1,4 +1,4 @@
-package decorator.decoratorCar;
+package decorator;
 
 /**
  * 普通的车

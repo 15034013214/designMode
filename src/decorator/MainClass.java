@@ -1,4 +1,4 @@
-package decorator.decoratorCar;
+package decorator;
 
 // 通过装饰器模式给车添加新功能
 public class MainClass {

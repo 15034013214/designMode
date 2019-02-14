@@ -1,4 +1,4 @@
-package decorator.decoratorCar;
+package decorator;
 
 public class DecoratorSwin extends Decorator {
     DecoratorSwin(Car car) {

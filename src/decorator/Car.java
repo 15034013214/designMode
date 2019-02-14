@@ -1,4 +1,4 @@
-package decorator.decoratorCar;
+package decorator;
 
 /**
  * 车的抽象类
